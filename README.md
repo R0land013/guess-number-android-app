@@ -2,11 +2,10 @@
 An android game. You have the task of guess a number between 1 and 100.
 
 # Main view:
-![main_view](https://user-images.githubusercontent.com/58601896/146662783-d2a3bc7c-cba7-4444-89a7-43cc5885a1ef.jpg)
+![main_view](https://user-images.githubusercontent.com/58601896/146662903-db6821a7-5afc-4daa-a4c7-e8468fd221a8.jpg)
 
 # Game result view:
-![result_view](https://user-images.githubusercontent.com/58601896/146662798-3de22dbd-1684-4397-a9af-e45893d0922b.jpg)
+![result_view](https://user-images.githubusercontent.com/58601896/146662904-d9434474-7374-4e60-932a-bff2a0f3b92a.jpg)
 
 # About view:
-![about_view](https://user-images.githubusercontent.com/58601896/146662800-86f58315-f849-4061-99ee-5a94cd37bd3d.jpg)
-
+![about_view](https://user-images.githubusercontent.com/58601896/146662905-e6e1713c-3234-44e8-b242-f64318717903.jpg)
