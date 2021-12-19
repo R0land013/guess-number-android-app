@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+
+    <string name="guess_number_between">
+        Guess the number. Between 1 and 100:\n
+        (You have 10 intents)
+    </string>
+    <string name="try_number">Try number</string>
+    <string name="attempt_number">Intent #</string>
+    <string name="tried_number">Tried number: </string>
+    <string name="categorization">Categorization:</string>
+    <string name="too_low_number">Too low</string>
+    <string name="too_high_number">Too high</string>
+    <string name="correct_number">Correct number</string>
+    <string name="about">About</string>
+
+    <string name="correct_answer_msg">Correct Answer:</string>
+    <string name="lost_game">You lost</string>
+    <string name="won_game">You Won</string>
+    <string name="play_again">Play again</string>
+
+    <string name="developed_by">Developed by</string>
+    <string name="developer_name">Rolando Rio Garaboa</string>
+    <string name="github">My github profile</string>
+    <string name="developer_github">https://github.com/R0land013</string>
+
+</resources>

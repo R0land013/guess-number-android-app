@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material">
+
+    </style>
+
+
+    <style name="buttonStyle">
+        <item name="android:background">@color/buttonColor</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+        <item name="android:paddingEnd">10dp</item>
+        <item name="android:paddingStart">10dp</item>
+    </style>
+
+
+    <style name="resultGameText">
+        <item name="android:textSize">50dp</item>
+    </style>
+    
+    <style name="resultGameTextWinner" parent="resultGameText">
+        <item name="android:textColor">@color/winnerColor</item>
+    </style>
+
+    <style name="resultGameTextLoser" parent="resultGameText">
+        <item name="android:textColor">@color/loserColor</item>
+    </style>
+
+
+</resources>
